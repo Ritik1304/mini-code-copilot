@@ -493,6 +493,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   Made with ❤️ by Ritik kumar
 </p>
 
-<p align="center">
-  ⭐ Star this repository if you found it helpful!
-</p>
+
