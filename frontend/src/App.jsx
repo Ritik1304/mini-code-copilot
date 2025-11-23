@@ -394,7 +394,7 @@ import React, { useState, useMemo } from 'react';
 import Header from './components/Header';
 import SettingsPanel from './components/SettingsPanel';
 import PromptInput from './components/PromptInput';
-import CodeOutput from './components/codeOutput';
+import CodeOutput from './components/CodeOutput';
 import HistoryPanel from './components/HistoryPanel';
 import { mockGenerateCode } from './services/mockApi';
 import { useLocalStorage } from './hooks/useLocalStorage';
